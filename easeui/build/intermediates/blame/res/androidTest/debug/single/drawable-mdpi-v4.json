@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\webcode\\app\\examples\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\webcode\\app\\examples\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\code\\Imchat\\chat\\ChatDemoUI3.0\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\code\\Imchat\\chat\\ChatDemoUI3.0\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\code\\Imchat\\ChatDemoUI3.0\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\code\\Imchat\\ChatDemoUI3.0\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\webcode\\app\\examples\\ChatDemoUI3.0\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\webcode\\app\\examples\\ChatDemoUI3.0\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    }
+]
