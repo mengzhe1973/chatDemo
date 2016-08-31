@@ -6,3 +6,6 @@
 master分支(也就是默认分支)是环信sdk 2.x版本的稳定代码，3.x版本的代码在sdk3.0分支上，看自己需求切换分支。另外sdk3.0这是一个开发中的分支，release版本分别有相应分支或tag。
 ## 项目依赖
 此demo依赖于easeui库，clone代码时需要把easeui也下载下来，easeui的分支情况同上分支说明，easeui的github地址为[https://github.com/easemob/easeui](https://github.com/easemob/easeui)
+
+
+以上是环信的demo里面的所有的功能，而我做的项目不需要这么多功能，所以我对此作了一些修改，换了自己的appkey，然后自己注册了几个用户用于测试，基本功能还是可以的，也对聊天页面作了修改，消息列表也做了修改。所以只要好好地研究环信的demo就可以实现自己想要的聊天的功能。
